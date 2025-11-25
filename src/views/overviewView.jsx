@@ -5,7 +5,11 @@
 function OverviewView(){
     return(
         <div>
-            Overview View
+            <table>
+                <tbody>
+                    
+                </tbody>
+            </table>
         </div>
     )
 } 
